@@ -1,23 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
+import JsonFetch from './components/JsonFetch';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <p>GET http://localhost:7070/data - <JsonFetch url="http://localhost:7070/data" /></p>
+      <p>GET http://localhost:7070/error - <JsonFetch url="http://localhost:7070/error" /></p>
+      <p>GET http://localhost:7070/loading - <JsonFetch url="http://localhost:7070/loading" /></p>
     </div>
   );
 }
