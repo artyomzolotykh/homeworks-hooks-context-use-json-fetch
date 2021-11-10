@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/homeworks-hooks-context-use-json-fetch/static/css/main.514b2941.chunk.css",
+    "main.js": "/homeworks-hooks-context-use-json-fetch/static/js/main.fffeb8c4.chunk.js",
+    "main.js.map": "/homeworks-hooks-context-use-json-fetch/static/js/main.fffeb8c4.chunk.js.map",
+    "runtime-main.js": "/homeworks-hooks-context-use-json-fetch/static/js/runtime-main.53864145.js",
+    "runtime-main.js.map": "/homeworks-hooks-context-use-json-fetch/static/js/runtime-main.53864145.js.map",
+    "static/js/2.1d8068ad.chunk.js": "/homeworks-hooks-context-use-json-fetch/static/js/2.1d8068ad.chunk.js",
+    "static/js/2.1d8068ad.chunk.js.map": "/homeworks-hooks-context-use-json-fetch/static/js/2.1d8068ad.chunk.js.map",
+    "static/js/3.336eb1be.chunk.js": "/homeworks-hooks-context-use-json-fetch/static/js/3.336eb1be.chunk.js",
+    "static/js/3.336eb1be.chunk.js.map": "/homeworks-hooks-context-use-json-fetch/static/js/3.336eb1be.chunk.js.map",
+    "index.html": "/homeworks-hooks-context-use-json-fetch/index.html",
+    "static/css/main.514b2941.chunk.css.map": "/homeworks-hooks-context-use-json-fetch/static/css/main.514b2941.chunk.css.map",
+    "static/js/2.1d8068ad.chunk.js.LICENSE.txt": "/homeworks-hooks-context-use-json-fetch/static/js/2.1d8068ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53864145.js",
+    "static/js/2.1d8068ad.chunk.js",
+    "static/css/main.514b2941.chunk.css",
+    "static/js/main.fffeb8c4.chunk.js"
+  ]
+}
